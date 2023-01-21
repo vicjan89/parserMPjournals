@@ -1,0 +1,867 @@
+<?xml version="1.0" standalone="yes"?>
+<DocumentElement>
+  <МР700_журнал_аварий>
+    <_indexCol>1</_indexCol>
+    <_timeCol>21.01.23 10:10:42,26</_timeCol>
+    <_msg1Col>Сигнализация</_msg1Col>
+    <_msgCol>I&gt;&gt;&gt;</_msgCol>
+    <_typeDamageCol>ABC</_typeDamageCol>
+    <_codeCol>Ib</_codeCol>
+    <_typeCol>1,39 кА</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>731 А</_Ida1Col>
+    <_Ita1Col>1,05 кА</_Ita1Col>
+    <_Ida2Col>825 А</_Ida2Col>
+    <_Ita3Col>5,86 А</_Ita3Col>
+    <_Ita2Col>855 А</_Ita2Col>
+    <_Ida3Col>204 А</_Ida3Col>
+    <_I1Col>0,07 А</_I1Col>
+    <_I2Col>0 А</_I2Col>
+    <_fColumn>49,97 Гц</_fColumn>
+    <_uabColumn>9,98 кВ</_uabColumn>
+    <_ubcColumn>9,64 кВ</_ubcColumn>
+    <_ucaColumn>9,95 кВ</_ucaColumn>
+    <_u0Column>21,1 В</_u0Column>
+    <_u1Column>5,69 кВ</_u1Column>
+    <_u2Column>123 В</_u2Column>
+    <_unColumn>41,8 В</_unColumn>
+    <_D0Col>  0010000000011011</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>2</_indexCol>
+    <_timeCol>28.06.22 21:06:48,90</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>I&gt;</_msgCol>
+    <_typeDamageCol>AB</_typeDamageCol>
+    <_codeCol>Ia</_codeCol>
+    <_typeCol>3,61 кА</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>3,51 кА</_Ida1Col>
+    <_Ita1Col>3,49 кА</_Ita1Col>
+    <_Ida2Col>53,3 А</_Ida2Col>
+    <_Ita3Col>8,79 А</_Ita3Col>
+    <_Ita2Col>2,05 кА</_Ita2Col>
+    <_Ida3Col>2 кА</_Ida3Col>
+    <_I1Col>1,55 А</_I1Col>
+    <_I2Col>0,25 А</_I2Col>
+    <_fColumn>50,01 Гц</_fColumn>
+    <_uabColumn>8,11 кВ</_uabColumn>
+    <_ubcColumn>8,51 кВ</_ubcColumn>
+    <_ucaColumn>11 кВ</_ucaColumn>
+    <_u0Column>2,87 кВ</_u0Column>
+    <_u1Column>5,25 кВ</_u1Column>
+    <_u2Column>1,09 кВ</_u2Column>
+    <_unColumn>4,89 кВ</_unColumn>
+    <_D0Col>  0010000000011011</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>3</_indexCol>
+    <_timeCol>21.07.20 14:03:13,87</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>I&gt;&gt;</_msgCol>
+    <_typeDamageCol>C</_typeDamageCol>
+    <_codeCol>Ic</_codeCol>
+    <_typeCol>1,64 кА</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>2,93 А</_Ida1Col>
+    <_Ita1Col>2,93 А</_Ita1Col>
+    <_Ida2Col>1,62 кА</_Ida2Col>
+    <_Ita3Col>539 А</_Ita3Col>
+    <_Ita2Col>539 А</_Ita2Col>
+    <_Ida3Col>539 А</_Ida3Col>
+    <_I1Col>0 А</_I1Col>
+    <_I2Col>0,11 А</_I2Col>
+    <_fColumn>49,97 Гц</_fColumn>
+    <_uabColumn>10,3 кВ</_uabColumn>
+    <_ubcColumn>10,3 кВ</_ubcColumn>
+    <_ucaColumn>10,3 кВ</_ucaColumn>
+    <_u0Column>256 В</_u0Column>
+    <_u1Column>5,95 кВ</_u1Column>
+    <_u2Column>21,5 В</_u2Column>
+    <_unColumn>461 В</_unColumn>
+    <_D0Col>  0010000000001001</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>4</_indexCol>
+    <_timeCol>21.07.20 13:47:44,77</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>I&gt;</_msgCol>
+    <_typeDamageCol>A</_typeDamageCol>
+    <_codeCol>Ia</_codeCol>
+    <_typeCol>2,19 кА</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>2,18 кА</_Ida1Col>
+    <_Ita1Col>4,03 А</_Ita1Col>
+    <_Ida2Col>5,86 А</_Ida2Col>
+    <_Ita3Col>725 А</_Ita3Col>
+    <_Ita2Col>726 А</_Ita2Col>
+    <_Ida3Col>729 А</_Ida3Col>
+    <_I1Col>0,05 А</_I1Col>
+    <_I2Col>0,08 А</_I2Col>
+    <_fColumn>49,96 Гц</_fColumn>
+    <_uabColumn>10,3 кВ</_uabColumn>
+    <_ubcColumn>10,3 кВ</_ubcColumn>
+    <_ucaColumn>10,2 кВ</_ucaColumn>
+    <_u0Column>261 В</_u0Column>
+    <_u1Column>5,94 кВ</_u1Column>
+    <_u2Column>25,8 В</_u2Column>
+    <_unColumn>457 В</_unColumn>
+    <_D0Col>  0010000000001011</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>5</_indexCol>
+    <_timeCol>21.07.20 13:45:10,65</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>I&gt;&gt;</_msgCol>
+    <_typeDamageCol>B</_typeDamageCol>
+    <_codeCol>Ib</_codeCol>
+    <_typeCol>727 А</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>2,93 А</_Ida1Col>
+    <_Ita1Col>706 А</_Ita1Col>
+    <_Ida2Col>2,93 А</_Ida2Col>
+    <_Ita3Col>233 А</_Ita3Col>
+    <_Ita2Col>235 А</_Ita2Col>
+    <_Ida3Col>235 А</_Ida3Col>
+    <_I1Col>0,07 А</_I1Col>
+    <_I2Col>0,05 А</_I2Col>
+    <_fColumn>50,02 Гц</_fColumn>
+    <_uabColumn>10,3 кВ</_uabColumn>
+    <_ubcColumn>10,3 кВ</_ubcColumn>
+    <_ucaColumn>10,3 кВ</_ucaColumn>
+    <_u0Column>274 В</_u0Column>
+    <_u1Column>5,94 кВ</_u1Column>
+    <_u2Column>16,8 В</_u2Column>
+    <_unColumn>469 В</_unColumn>
+    <_D0Col>  0010000000001011</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>6</_indexCol>
+    <_timeCol>21.07.20 13:43:46,69</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>I&gt;&gt;</_msgCol>
+    <_typeDamageCol>A</_typeDamageCol>
+    <_codeCol>Ia</_codeCol>
+    <_typeCol>1,98 кА</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>1,96 кА</_Ida1Col>
+    <_Ita1Col>4,03 А</_Ita1Col>
+    <_Ida2Col>0 А</_Ida2Col>
+    <_Ita3Col>652 А</_Ita3Col>
+    <_Ita2Col>653 А</_Ita2Col>
+    <_Ida3Col>654 А</_Ida3Col>
+    <_I1Col>0,05 А</_I1Col>
+    <_I2Col>0,08 А</_I2Col>
+    <_fColumn>49,98 Гц</_fColumn>
+    <_uabColumn>10,3 кВ</_uabColumn>
+    <_ubcColumn>10,3 кВ</_ubcColumn>
+    <_ucaColumn>10,3 кВ</_ucaColumn>
+    <_u0Column>273 В</_u0Column>
+    <_u1Column>5,95 кВ</_u1Column>
+    <_u2Column>12,5 В</_u2Column>
+    <_unColumn>462 В</_unColumn>
+    <_D0Col>  0010000000001011</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>7</_indexCol>
+    <_timeCol>21.07.20 13:40:03,29</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>I&gt;</_msgCol>
+    <_typeDamageCol>A</_typeDamageCol>
+    <_codeCol>Ia</_codeCol>
+    <_typeCol>2,64 кА</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>2,64 кА</_Ida1Col>
+    <_Ita1Col>4,03 А</_Ita1Col>
+    <_Ida2Col>2,93 А</_Ida2Col>
+    <_Ita3Col>876 А</_Ita3Col>
+    <_Ita2Col>879 А</_Ita2Col>
+    <_Ida3Col>879 А</_Ida3Col>
+    <_I1Col>0,04 А</_I1Col>
+    <_I2Col>0 А</_I2Col>
+    <_fColumn>49,99 Гц</_fColumn>
+    <_uabColumn>10,3 кВ</_uabColumn>
+    <_ubcColumn>10,3 кВ</_ubcColumn>
+    <_ucaColumn>10,3 кВ</_ucaColumn>
+    <_u0Column>273 В</_u0Column>
+    <_u1Column>5,95 кВ</_u1Column>
+    <_u2Column>23 В</_u2Column>
+    <_unColumn>464 В</_unColumn>
+    <_D0Col>  0001000000001100</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>8</_indexCol>
+    <_timeCol>21.07.20 13:39:56,43</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>I&gt;</_msgCol>
+    <_typeDamageCol>B</_typeDamageCol>
+    <_codeCol>Ib</_codeCol>
+    <_typeCol>2,62 кА</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>0 А</_Ida1Col>
+    <_Ita1Col>2,61 кА</_Ita1Col>
+    <_Ida2Col>5,86 А</_Ida2Col>
+    <_Ita3Col>870 А</_Ita3Col>
+    <_Ita2Col>869 А</_Ita2Col>
+    <_Ida3Col>870 А</_Ida3Col>
+    <_I1Col>0,08 А</_I1Col>
+    <_I2Col>0,07 А</_I2Col>
+    <_fColumn>50 Гц</_fColumn>
+    <_uabColumn>10,3 кВ</_uabColumn>
+    <_ubcColumn>10,3 кВ</_ubcColumn>
+    <_ucaColumn>10,3 кВ</_ucaColumn>
+    <_u0Column>266 В</_u0Column>
+    <_u1Column>5,95 кВ</_u1Column>
+    <_u2Column>23 В</_u2Column>
+    <_unColumn>462 В</_unColumn>
+    <_D0Col>  0001000000001100</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>9</_indexCol>
+    <_timeCol>21.07.20 13:39:47,04</_timeCol>
+    <_msg1Col>Работа</_msg1Col>
+    <_msgCol>I&gt;&gt;</_msgCol>
+    <_typeDamageCol>C</_typeDamageCol>
+    <_codeCol>Ic</_codeCol>
+    <_typeCol>2,54 кА</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>2,93 А</_Ida1Col>
+    <_Ita1Col>2,93 А</_Ita1Col>
+    <_Ida2Col>2,54 кА</_Ida2Col>
+    <_Ita3Col>847 А</_Ita3Col>
+    <_Ita2Col>847 А</_Ita2Col>
+    <_Ida3Col>847 А</_Ida3Col>
+    <_I1Col>0,08 А</_I1Col>
+    <_I2Col>0,08 А</_I2Col>
+    <_fColumn>49,99 Гц</_fColumn>
+    <_uabColumn>10,3 кВ</_uabColumn>
+    <_ubcColumn>10,3 кВ</_ubcColumn>
+    <_ucaColumn>10,3 кВ</_ucaColumn>
+    <_u0Column>262 В</_u0Column>
+    <_u1Column>5,95 кВ</_u1Column>
+    <_u2Column>17,2 В</_u2Column>
+    <_unColumn>465 В</_unColumn>
+    <_D0Col>  0001000000001100</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>10</_indexCol>
+    <_timeCol>21.07.20 13:39:46,78</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>I&gt;</_msgCol>
+    <_typeDamageCol>C</_typeDamageCol>
+    <_codeCol>Ic</_codeCol>
+    <_typeCol>2,37 кА</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>0 А</_Ida1Col>
+    <_Ita1Col>6,41 А</_Ita1Col>
+    <_Ida2Col>2,37 кА</_Ida2Col>
+    <_Ita3Col>789 А</_Ita3Col>
+    <_Ita2Col>789 А</_Ita2Col>
+    <_Ida3Col>790 А</_Ida3Col>
+    <_I1Col>0,05 А</_I1Col>
+    <_I2Col>0,08 А</_I2Col>
+    <_fColumn>49,98 Гц</_fColumn>
+    <_uabColumn>10,3 кВ</_uabColumn>
+    <_ubcColumn>10,3 кВ</_ubcColumn>
+    <_ucaColumn>10,3 кВ</_ucaColumn>
+    <_u0Column>262 В</_u0Column>
+    <_u1Column>5,95 кВ</_u1Column>
+    <_u2Column>18 В</_u2Column>
+    <_unColumn>458 В</_unColumn>
+    <_D0Col>  0001000000001100</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>11</_indexCol>
+    <_timeCol>21.07.20 13:39:40,80</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>I&gt;&gt;</_msgCol>
+    <_typeDamageCol>C</_typeDamageCol>
+    <_codeCol>Ic</_codeCol>
+    <_typeCol>1,77 кА</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>2,93 А</_Ida1Col>
+    <_Ita1Col>4,03 А</_Ita1Col>
+    <_Ida2Col>1,77 кА</_Ida2Col>
+    <_Ita3Col>591 А</_Ita3Col>
+    <_Ita2Col>591 А</_Ita2Col>
+    <_Ida3Col>589 А</_Ida3Col>
+    <_I1Col>0,08 А</_I1Col>
+    <_I2Col>0,04 А</_I2Col>
+    <_fColumn>50 Гц</_fColumn>
+    <_uabColumn>10,3 кВ</_uabColumn>
+    <_ubcColumn>10,3 кВ</_ubcColumn>
+    <_ucaColumn>10,3 кВ</_ucaColumn>
+    <_u0Column>261 В</_u0Column>
+    <_u1Column>5,95 кВ</_u1Column>
+    <_u2Column>20,3 В</_u2Column>
+    <_unColumn>462 В</_unColumn>
+    <_D0Col>  0001000000001100</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>12</_indexCol>
+    <_timeCol>21.07.20 13:39:30,06</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>I&gt;&gt;</_msgCol>
+    <_typeDamageCol>C</_typeDamageCol>
+    <_codeCol>Ic</_codeCol>
+    <_typeCol>617 А</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>2,93 А</_Ida1Col>
+    <_Ita1Col>0 А</_Ita1Col>
+    <_Ida2Col>614 А</_Ida2Col>
+    <_Ita3Col>205 А</_Ita3Col>
+    <_Ita2Col>204 А</_Ita2Col>
+    <_Ida3Col>204 А</_Ida3Col>
+    <_I1Col>0,08 А</_I1Col>
+    <_I2Col>0 А</_I2Col>
+    <_fColumn>50 Гц</_fColumn>
+    <_uabColumn>10,3 кВ</_uabColumn>
+    <_ubcColumn>10,3 кВ</_ubcColumn>
+    <_ucaColumn>10,3 кВ</_ucaColumn>
+    <_u0Column>257 В</_u0Column>
+    <_u1Column>5,95 кВ</_u1Column>
+    <_u2Column>14,5 В</_u2Column>
+    <_unColumn>461 В</_unColumn>
+    <_D0Col>  0001000000001100</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>13</_indexCol>
+    <_timeCol>21.07.20 13:39:16,61</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>I&gt;&gt;</_msgCol>
+    <_typeDamageCol>B</_typeDamageCol>
+    <_codeCol>Ib</_codeCol>
+    <_typeCol>647 А</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>2,93 А</_Ida1Col>
+    <_Ita1Col>643 А</_Ita1Col>
+    <_Ida2Col>0 А</_Ida2Col>
+    <_Ita3Col>214 А</_Ita3Col>
+    <_Ita2Col>213 А</_Ita2Col>
+    <_Ida3Col>214 А</_Ida3Col>
+    <_I1Col>0 А</_I1Col>
+    <_I2Col>0,04 А</_I2Col>
+    <_fColumn>50 Гц</_fColumn>
+    <_uabColumn>10,3 кВ</_uabColumn>
+    <_ubcColumn>10,3 кВ</_ubcColumn>
+    <_ucaColumn>10,3 кВ</_ucaColumn>
+    <_u0Column>272 В</_u0Column>
+    <_u1Column>5,95 кВ</_u1Column>
+    <_u2Column>16 В</_u2Column>
+    <_unColumn>462 В</_unColumn>
+    <_D0Col>  0001000000001100</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>14</_indexCol>
+    <_timeCol>21.07.20 13:38:59,65</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>I&gt;&gt;</_msgCol>
+    <_typeDamageCol>A</_typeDamageCol>
+    <_codeCol>Ia</_codeCol>
+    <_typeCol>645 А</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>638 А</_Ida1Col>
+    <_Ita1Col>4,03 А</_Ita1Col>
+    <_Ida2Col>2,93 А</_Ida2Col>
+    <_Ita3Col>213 А</_Ita3Col>
+    <_Ita2Col>212 А</_Ita2Col>
+    <_Ida3Col>212 А</_Ida3Col>
+    <_I1Col>0,04 А</_I1Col>
+    <_I2Col>0,07 А</_I2Col>
+    <_fColumn>50,01 Гц</_fColumn>
+    <_uabColumn>10,3 кВ</_uabColumn>
+    <_ubcColumn>10,3 кВ</_ubcColumn>
+    <_ucaColumn>10,3 кВ</_ucaColumn>
+    <_u0Column>261 В</_u0Column>
+    <_u1Column>5,95 кВ</_u1Column>
+    <_u2Column>23,4 В</_u2Column>
+    <_unColumn>466 В</_unColumn>
+    <_D0Col>  0001000000001100</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>15</_indexCol>
+    <_timeCol>21.07.20 13:15:25,02</_timeCol>
+    <_msg1Col>Сигнализация</_msg1Col>
+    <_msgCol>ВЗ-4</_msgCol>
+    <_typeDamageCol />
+    <_codeCol />
+    <_typeCol />
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>0 А</_Ida1Col>
+    <_Ita1Col>4,03 А</_Ita1Col>
+    <_Ida2Col>0 А</_Ida2Col>
+    <_Ita3Col>0,91 А</_Ita3Col>
+    <_Ita2Col>0,91 А</_Ita2Col>
+    <_Ida3Col>0,91 А</_Ida3Col>
+    <_I1Col>0,04 А</_I1Col>
+    <_I2Col>0,07 А</_I2Col>
+    <_fColumn>50,01 Гц</_fColumn>
+    <_uabColumn>10,3 кВ</_uabColumn>
+    <_ubcColumn>10,3 кВ</_ubcColumn>
+    <_ucaColumn>10,3 кВ</_ucaColumn>
+    <_u0Column>264 В</_u0Column>
+    <_u1Column>5,95 кВ</_u1Column>
+    <_u2Column>15,2 В</_u2Column>
+    <_unColumn>457 В</_unColumn>
+    <_D0Col>  0001010000001000</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>16</_indexCol>
+    <_timeCol>21.07.20 12:01:31,86</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>I&gt;</_msgCol>
+    <_typeDamageCol>A</_typeDamageCol>
+    <_codeCol>Ia</_codeCol>
+    <_typeCol>2,82 кА</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>2,81 кА</_Ida1Col>
+    <_Ita1Col>2,93 А</_Ita1Col>
+    <_Ida2Col>2,93 А</_Ida2Col>
+    <_Ita3Col>938 А</_Ita3Col>
+    <_Ita2Col>936 А</_Ita2Col>
+    <_Ida3Col>936 А</_Ida3Col>
+    <_I1Col>0,04 А</_I1Col>
+    <_I2Col>0,05 А</_I2Col>
+    <_fColumn>49,98 Гц</_fColumn>
+    <_uabColumn>10,4 кВ</_uabColumn>
+    <_ubcColumn>10,4 кВ</_ubcColumn>
+    <_ucaColumn>10,3 кВ</_ucaColumn>
+    <_u0Column>261 В</_u0Column>
+    <_u1Column>5,98 кВ</_u1Column>
+    <_u2Column>24,2 В</_u2Column>
+    <_unColumn>466 В</_unColumn>
+    <_D0Col>  0000000000001000</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>17</_indexCol>
+    <_timeCol>21.07.20 12:01:23,35</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>I&gt;&gt;</_msgCol>
+    <_typeDamageCol>A</_typeDamageCol>
+    <_codeCol>Ia</_codeCol>
+    <_typeCol>924 А</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>918 А</_Ida1Col>
+    <_Ita1Col>5,86 А</_Ita1Col>
+    <_Ida2Col>5,86 А</_Ida2Col>
+    <_Ita3Col>307 А</_Ita3Col>
+    <_Ita2Col>303 А</_Ita2Col>
+    <_Ida3Col>306 А</_Ida3Col>
+    <_I1Col>0 А</_I1Col>
+    <_I2Col>0,04 А</_I2Col>
+    <_fColumn>50 Гц</_fColumn>
+    <_uabColumn>10,4 кВ</_uabColumn>
+    <_ubcColumn>10,4 кВ</_ubcColumn>
+    <_ucaColumn>10,3 кВ</_ucaColumn>
+    <_u0Column>261 В</_u0Column>
+    <_u1Column>5,98 кВ</_u1Column>
+    <_u2Column>20,7 В</_u2Column>
+    <_unColumn>452 В</_unColumn>
+    <_D0Col>  0000000000001000</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>18</_indexCol>
+    <_timeCol>21.07.20 10:44:50,41</_timeCol>
+    <_msg1Col>Сигнализация</_msg1Col>
+    <_msgCol>ВЗ-4</_msgCol>
+    <_typeDamageCol />
+    <_codeCol />
+    <_typeCol />
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>5,86 А</_Ida1Col>
+    <_Ita1Col>2,93 А</_Ita1Col>
+    <_Ida2Col>2,93 А</_Ida2Col>
+    <_Ita3Col>2,2 А</_Ita3Col>
+    <_Ita2Col>1,1 А</_Ita2Col>
+    <_Ida3Col>2,93 А</_Ida3Col>
+    <_I1Col>0,04 А</_I1Col>
+    <_I2Col>0,04 А</_I2Col>
+    <_fColumn>49,99 Гц</_fColumn>
+    <_uabColumn>10,5 кВ</_uabColumn>
+    <_ubcColumn>10,5 кВ</_ubcColumn>
+    <_ucaColumn>10,5 кВ</_ucaColumn>
+    <_u0Column>266 В</_u0Column>
+    <_u1Column>6,06 кВ</_u1Column>
+    <_u2Column>14,5 В</_u2Column>
+    <_unColumn>479 В</_unColumn>
+    <_D0Col>  0001010000001000</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>19</_indexCol>
+    <_timeCol>01.04.19 13:55:32,61</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>ВЗ-1</_msgCol>
+    <_typeDamageCol />
+    <_codeCol />
+    <_typeCol />
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>4,03 А</_Ida1Col>
+    <_Ita1Col>2,93 А</_Ita1Col>
+    <_Ida2Col>4,03 А</_Ida2Col>
+    <_Ita3Col>2,01 А</_Ita3Col>
+    <_Ita2Col>1,28 А</_Ita2Col>
+    <_Ida3Col>1,28 А</_Ida3Col>
+    <_I1Col>0,05 А</_I1Col>
+    <_I2Col>0,04 А</_I2Col>
+    <_fColumn>0 Гц</_fColumn>
+    <_uabColumn>0,39 В</_uabColumn>
+    <_ubcColumn>0,39 В</_ubcColumn>
+    <_ucaColumn>0,39 В</_ucaColumn>
+    <_u0Column>0 В</_u0Column>
+    <_u1Column>0 В</_u1Column>
+    <_u2Column>0 В</_u2Column>
+    <_unColumn>8,59 В</_unColumn>
+    <_D0Col>  0000100000110000</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>20</_indexCol>
+    <_timeCol>01.04.19 13:47:44,64</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>ВЗ-1</_msgCol>
+    <_typeDamageCol />
+    <_codeCol />
+    <_typeCol />
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>0 А</_Ida1Col>
+    <_Ita1Col>0 А</_Ita1Col>
+    <_Ida2Col>4,03 А</_Ida2Col>
+    <_Ita3Col>0,91 А</_Ita3Col>
+    <_Ita2Col>0,91 А</_Ita2Col>
+    <_Ida3Col>0,91 А</_Ida3Col>
+    <_I1Col>0,04 А</_I1Col>
+    <_I2Col>0,04 А</_I2Col>
+    <_fColumn>0 Гц</_fColumn>
+    <_uabColumn>6,64 В</_uabColumn>
+    <_ubcColumn>0,39 В</_ubcColumn>
+    <_ucaColumn>6,64 В</_ucaColumn>
+    <_u0Column>3,91 В</_u0Column>
+    <_u1Column>2,34 В</_u1Column>
+    <_u2Column>2,34 В</_u2Column>
+    <_unColumn>12,5 В</_unColumn>
+    <_D0Col>  0000100000110000</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>21</_indexCol>
+    <_timeCol>04.04.16 20:44:10,85</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>I&gt;</_msgCol>
+    <_typeDamageCol>B</_typeDamageCol>
+    <_codeCol>Ib</_codeCol>
+    <_typeCol>2,83 кА</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>55,8 А</_Ida1Col>
+    <_Ita1Col>2,31 кА</_Ita1Col>
+    <_Ida2Col>90,8 А</_Ida2Col>
+    <_Ita3Col>942 А</_Ita3Col>
+    <_Ita2Col>959 А</_Ita2Col>
+    <_Ida3Col>915 А</_Ida3Col>
+    <_I1Col>150 А</_I1Col>
+    <_I2Col>13 А</_I2Col>
+    <_fColumn>49,88 Гц</_fColumn>
+    <_uabColumn>8,85 кВ</_uabColumn>
+    <_ubcColumn>9,51 кВ</_ubcColumn>
+    <_ucaColumn>10,8 кВ</_ucaColumn>
+    <_u0Column>4,26 кВ</_u0Column>
+    <_u1Column>5,59 кВ</_u1Column>
+    <_u2Column>667 В</_u2Column>
+    <_unColumn>7,28 кВ</_unColumn>
+    <_D0Col>  0010000000011011</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>22</_indexCol>
+    <_timeCol>30.10.14 13:43:40,56</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>ВЗ-1</_msgCol>
+    <_typeDamageCol />
+    <_codeCol />
+    <_typeCol />
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>4,03 А</_Ida1Col>
+    <_Ita1Col>2,93 А</_Ita1Col>
+    <_Ida2Col>4,03 А</_Ida2Col>
+    <_Ita3Col>2,01 А</_Ita3Col>
+    <_Ita2Col>0,55 А</_Ita2Col>
+    <_Ida3Col>1,83 А</_Ida3Col>
+    <_I1Col>0,04 А</_I1Col>
+    <_I2Col>0,04 А</_I2Col>
+    <_fColumn>0 Гц</_fColumn>
+    <_uabColumn>6,64 В</_uabColumn>
+    <_ubcColumn>8,98 В</_ubcColumn>
+    <_ucaColumn>6,64 В</_ucaColumn>
+    <_u0Column>2,73 В</_u0Column>
+    <_u1Column>4,3 В</_u1Column>
+    <_u2Column>0,78 В</_u2Column>
+    <_unColumn>8,59 В</_unColumn>
+    <_D0Col>  0000100000100000</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>23</_indexCol>
+    <_timeCol>30.10.14 11:52:56,48</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>ВЗ-1</_msgCol>
+    <_typeDamageCol />
+    <_codeCol />
+    <_typeCol />
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>0 А</_Ida1Col>
+    <_Ita1Col>4,03 А</_Ita1Col>
+    <_Ida2Col>2,93 А</_Ida2Col>
+    <_Ita3Col>0,91 А</_Ita3Col>
+    <_Ita2Col>0,91 А</_Ita2Col>
+    <_Ida3Col>0,91 А</_Ida3Col>
+    <_I1Col>0,1 А</_I1Col>
+    <_I2Col>0,04 А</_I2Col>
+    <_fColumn>0 Гц</_fColumn>
+    <_uabColumn>6,64 В</_uabColumn>
+    <_ubcColumn>0,39 В</_ubcColumn>
+    <_ucaColumn>6,25 В</_ucaColumn>
+    <_u0Column>6,25 В</_u0Column>
+    <_u1Column>2,34 В</_u1Column>
+    <_u2Column>2,34 В</_u2Column>
+    <_unColumn>8,59 В</_unColumn>
+    <_D0Col>  0000100000100000</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>24</_indexCol>
+    <_timeCol>30.10.14 11:51:33,20</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>ВЗ-1</_msgCol>
+    <_typeDamageCol />
+    <_codeCol />
+    <_typeCol />
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>2,93 А</_Ida1Col>
+    <_Ita1Col>2,93 А</_Ita1Col>
+    <_Ida2Col>0 А</_Ida2Col>
+    <_Ita3Col>0,91 А</_Ita3Col>
+    <_Ita2Col>0,91 А</_Ita2Col>
+    <_Ida3Col>0,91 А</_Ida3Col>
+    <_I1Col>0,05 А</_I1Col>
+    <_I2Col>0,04 А</_I2Col>
+    <_fColumn>0 Гц</_fColumn>
+    <_uabColumn>6,64 В</_uabColumn>
+    <_ubcColumn>9,38 В</_ubcColumn>
+    <_ucaColumn>6,64 В</_ucaColumn>
+    <_u0Column>4,3 В</_u0Column>
+    <_u1Column>3,91 В</_u1Column>
+    <_u2Column>1,17 В</_u2Column>
+    <_unColumn>8,59 В</_unColumn>
+    <_D0Col>  0000100000100000</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>25</_indexCol>
+    <_timeCol>30.10.14 11:51:05,32</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>ВЗ-1</_msgCol>
+    <_typeDamageCol />
+    <_codeCol />
+    <_typeCol />
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>4,03 А</_Ida1Col>
+    <_Ita1Col>2,93 А</_Ita1Col>
+    <_Ida2Col>2,93 А</_Ida2Col>
+    <_Ita3Col>2,01 А</_Ita3Col>
+    <_Ita2Col>1,46 А</_Ita2Col>
+    <_Ida3Col>1,28 А</_Ida3Col>
+    <_I1Col>0,07 А</_I1Col>
+    <_I2Col>0,05 А</_I2Col>
+    <_fColumn>0 Гц</_fColumn>
+    <_uabColumn>0,39 В</_uabColumn>
+    <_ubcColumn>6,25 В</_ubcColumn>
+    <_ucaColumn>6,25 В</_ucaColumn>
+    <_u0Column>1,95 В</_u0Column>
+    <_u1Column>1,95 В</_u1Column>
+    <_u2Column>1,95 В</_u2Column>
+    <_unColumn>0 В</_unColumn>
+    <_D0Col>  0000100000100000</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>26</_indexCol>
+    <_timeCol>30.10.14 11:46:47,34</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>ВЗ-1</_msgCol>
+    <_typeDamageCol />
+    <_codeCol />
+    <_typeCol />
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>2,93 А</_Ida1Col>
+    <_Ita1Col>2,93 А</_Ita1Col>
+    <_Ida2Col>4,03 А</_Ida2Col>
+    <_Ita3Col>1,28 А</_Ita3Col>
+    <_Ita2Col>0,36 А</_Ita2Col>
+    <_Ida3Col>2,01 А</_Ida3Col>
+    <_I1Col>0,08 А</_I1Col>
+    <_I2Col>0,04 А</_I2Col>
+    <_fColumn>0 Гц</_fColumn>
+    <_uabColumn>8,59 В</_uabColumn>
+    <_ubcColumn>8,59 В</_ubcColumn>
+    <_ucaColumn>12,5 В</_ucaColumn>
+    <_u0Column>6,25 В</_u0Column>
+    <_u1Column>5,86 В</_u1Column>
+    <_u2Column>1,17 В</_u2Column>
+    <_unColumn>13,7 В</_unColumn>
+    <_D0Col>  0000100000100000</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>27</_indexCol>
+    <_timeCol>30.10.14 11:43:28,43</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>ВЗ-1</_msgCol>
+    <_typeDamageCol />
+    <_codeCol />
+    <_typeCol />
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>6,41 А</_Ida1Col>
+    <_Ita1Col>0 А</_Ita1Col>
+    <_Ida2Col>2,93 А</_Ida2Col>
+    <_Ita3Col>0,91 А</_Ita3Col>
+    <_Ita2Col>1,64 А</_Ita2Col>
+    <_Ida3Col>2,38 А</_Ida3Col>
+    <_I1Col>0,07 А</_I1Col>
+    <_I2Col>0,04 А</_I2Col>
+    <_fColumn>0 Гц</_fColumn>
+    <_uabColumn>6,25 В</_uabColumn>
+    <_ubcColumn>6,25 В</_ubcColumn>
+    <_ucaColumn>0 В</_ucaColumn>
+    <_u0Column>1,95 В</_u0Column>
+    <_u1Column>1,95 В</_u1Column>
+    <_u2Column>1,95 В</_u2Column>
+    <_unColumn>6,25 В</_unColumn>
+    <_D0Col>  0000100000100000</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>28</_indexCol>
+    <_timeCol>30.10.14 11:19:48,94</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>ВЗ-1</_msgCol>
+    <_typeDamageCol />
+    <_codeCol />
+    <_typeCol />
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>0 А</_Ida1Col>
+    <_Ita1Col>0 А</_Ita1Col>
+    <_Ida2Col>4,03 А</_Ida2Col>
+    <_Ita3Col>0,91 А</_Ita3Col>
+    <_Ita2Col>0,91 А</_Ita2Col>
+    <_Ida3Col>0,91 А</_Ida3Col>
+    <_I1Col>0,04 А</_I1Col>
+    <_I2Col>0,07 А</_I2Col>
+    <_fColumn>0 Гц</_fColumn>
+    <_uabColumn>6,25 В</_uabColumn>
+    <_ubcColumn>0 В</_ubcColumn>
+    <_ucaColumn>6,25 В</_ucaColumn>
+    <_u0Column>3,91 В</_u0Column>
+    <_u1Column>2,34 В</_u1Column>
+    <_u2Column>2,34 В</_u2Column>
+    <_unColumn>6,25 В</_unColumn>
+    <_D0Col>  0000100000100000</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>29</_indexCol>
+    <_timeCol>30.10.14 11:19:47,66</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>ВЗ-1</_msgCol>
+    <_typeDamageCol />
+    <_codeCol />
+    <_typeCol />
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>2,93 А</_Ida1Col>
+    <_Ita1Col>0 А</_Ita1Col>
+    <_Ida2Col>4,03 А</_Ida2Col>
+    <_Ita3Col>0,91 А</_Ita3Col>
+    <_Ita2Col>0,91 А</_Ita2Col>
+    <_Ida3Col>0,91 А</_Ida3Col>
+    <_I1Col>0,04 А</_I1Col>
+    <_I2Col>0,04 А</_I2Col>
+    <_fColumn>0 Гц</_fColumn>
+    <_uabColumn>12,9 В</_uabColumn>
+    <_ubcColumn>8,59 В</_ubcColumn>
+    <_ucaColumn>8,98 В</_ucaColumn>
+    <_u0Column>3,91 В</_u0Column>
+    <_u1Column>5,47 В</_u1Column>
+    <_u2Column>1,56 В</_u2Column>
+    <_unColumn>13,7 В</_unColumn>
+    <_D0Col>  0000100000100000</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>30</_indexCol>
+    <_timeCol>30.10.14 11:09:48,30</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>ВЗ-1</_msgCol>
+    <_typeDamageCol />
+    <_codeCol />
+    <_typeCol />
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>0 А</_Ida1Col>
+    <_Ita1Col>0 А</_Ita1Col>
+    <_Ida2Col>4,03 А</_Ida2Col>
+    <_Ita3Col>0,91 А</_Ita3Col>
+    <_Ita2Col>0,91 А</_Ita2Col>
+    <_Ida3Col>0,91 А</_Ida3Col>
+    <_I1Col>0,08 А</_I1Col>
+    <_I2Col>0,05 А</_I2Col>
+    <_fColumn>0 Гц</_fColumn>
+    <_uabColumn>8,59 В</_uabColumn>
+    <_ubcColumn>6,64 В</_ubcColumn>
+    <_ucaColumn>14,5 В</_ucaColumn>
+    <_u0Column>1,95 В</_u0Column>
+    <_u1Column>3,52 В</_u1Column>
+    <_u2Column>5,08 В</_u2Column>
+    <_unColumn>0 В</_unColumn>
+    <_D0Col>  0000100000100000</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>31</_indexCol>
+    <_timeCol>16.10.14 13:31:17,94</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>I&gt;</_msgCol>
+    <_typeDamageCol>B</_typeDamageCol>
+    <_codeCol>Ib</_codeCol>
+    <_typeCol>2,59 кА</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>6,41 А</_Ida1Col>
+    <_Ita1Col>2,59 кА</_Ita1Col>
+    <_Ida2Col>2,93 А</_Ida2Col>
+    <_Ita3Col>860 А</_Ita3Col>
+    <_Ita2Col>864 А</_Ita2Col>
+    <_Ida3Col>863 А</_Ida3Col>
+    <_I1Col>0,1 А</_I1Col>
+    <_I2Col>0,05 А</_I2Col>
+    <_fColumn>49,98 Гц</_fColumn>
+    <_uabColumn>10,4 кВ</_uabColumn>
+    <_ubcColumn>10,4 кВ</_ubcColumn>
+    <_ucaColumn>10,3 кВ</_ucaColumn>
+    <_u0Column>184 В</_u0Column>
+    <_u1Column>5,98 кВ</_u1Column>
+    <_u2Column>18 В</_u2Column>
+    <_unColumn>300 В</_unColumn>
+    <_D0Col>  0001000000011100</_D0Col>
+  </МР700_журнал_аварий>
+  <МР700_журнал_аварий>
+    <_indexCol>32</_indexCol>
+    <_timeCol>16.10.14 13:31:14,68</_timeCol>
+    <_msg1Col>Отключение</_msg1Col>
+    <_msgCol>I&gt;</_msgCol>
+    <_typeDamageCol>B</_typeDamageCol>
+    <_codeCol>Ib</_codeCol>
+    <_typeCol>2,6 кА</_typeCol>
+    <_groupCol>Основная</_groupCol>
+    <_Ida1Col>6,41 А</_Ida1Col>
+    <_Ita1Col>2,59 кА</_Ita1Col>
+    <_Ida2Col>2,93 А</_Ida2Col>
+    <_Ita3Col>861 А</_Ita3Col>
+    <_Ita2Col>863 А</_Ita2Col>
+    <_Ida3Col>865 А</_Ida3Col>
+    <_I1Col>0,05 А</_I1Col>
+    <_I2Col>0,08 А</_I2Col>
+    <_fColumn>49,98 Гц</_fColumn>
+    <_uabColumn>10,4 кВ</_uabColumn>
+    <_ubcColumn>10,3 кВ</_ubcColumn>
+    <_ucaColumn>10,3 кВ</_ucaColumn>
+    <_u0Column>178 В</_u0Column>
+    <_u1Column>5,98 кВ</_u1Column>
+    <_u2Column>22,7 В</_u2Column>
+    <_unColumn>289 В</_unColumn>
+    <_D0Col>  0001000000011100</_D0Col>
+  </МР700_журнал_аварий>
+</DocumentElement>

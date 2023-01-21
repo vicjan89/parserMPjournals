@@ -23,15 +23,23 @@ def parse_MR(path, journal, name_equipment, dtime):
 					row.append(i.tag+' '+i.text)
 				else:
 					row.append(' ')
-		if row[1].date() == datetime.date(2023,1,15):
+		if row[1].date() == datetime.date(2023,1,21):
 			journal.append(row)
 
-parse_MR(r'W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Стасево 16.01.23\ МВ10 Т1\МР741_Журнал_аварий.xml', journal, 'Ввод 10кВ Т-1', datetime.timedelta(minutes=3, seconds=25, milliseconds=880))
-parse_MR(r'W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Стасево 16.01.23\ МВ10 Т1\МР741_ЖурналСистемы.xml', journal, 'Ввод 10кВ Т-1', datetime.timedelta(minutes=3, seconds=25, milliseconds=880))
-parse_MR(r'W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Стасево 16.01.23\МВ10 ф195\Журнал аварий МР5 версия 50.03.xml', journal, 'ВЛ-195', datetime.timedelta())
-parse_MR(r'W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Стасево 16.01.23\МВ10 ф195\МР5 v50 Журнал Системы.xml', journal, 'ВЛ-195', datetime.timedelta())
-parse_MR(r'W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Стасево 16.01.23\ТН10 Стасево\Журнал аварий МР5 v60.xml', journal, 'ТН-10', datetime.timedelta(seconds=26, milliseconds=470))
-parse_MR(r'W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Стасево 16.01.23\ТН10 Стасево\МР5 v60 Журнал Системы.xml', journal, 'ТН-10', datetime.timedelta(seconds=26, milliseconds=470))
+parse_MR(r'W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Технологическая\авария технол. 21.01\522\МР700_ЖурналСистемы.xml', journal, 'ВВ-522', datetime.timedelta(hours=-2, minutes=1, seconds=-3, milliseconds=0))
+parse_MR(r'W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Технологическая\авария технол. 21.01\527\Журнал аварий МР 700.xml', journal, 'ВВ-527', datetime.timedelta(minutes=-14, seconds=-9, milliseconds=0))
+parse_MR(r'W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Технологическая\авария технол. 21.01\527\МР700_ЖурналСистемы.xml', journal, 'ВВ-527', datetime.timedelta(minutes=-14, seconds=-9, milliseconds=0))
+parse_MR(r'W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Технологическая\авария технол. 21.01\573\Журнал аварий МР 700.xml', journal, 'ВВ-573', datetime.timedelta(seconds=2))
+parse_MR(r'W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Технологическая\авария технол. 21.01\573\МР700_ЖурналСистемы.xml', journal, 'ВВ-573', datetime.timedelta(seconds=2))
+parse_MR(r"W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Технологическая\авария технол. 21.01\577\Журнал аварий МР 700.xml", journal, 'ВВ-577', datetime.timedelta(seconds=1))
+parse_MR(r"W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Технологическая\авария технол. 21.01\577\МР700_ЖурналСистемы.xml", journal, 'ВВ-577', datetime.timedelta(seconds=1))
+parse_MR(r"W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Технологическая\авария технол. 21.01\вв 5с\МР700_ЖурналСистемы.xml", journal, 'Ввод 5с', datetime.timedelta(seconds=2))
+parse_MR(r"W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Технологическая\авария технол. 21.01\вв 6с\Журнал аварий МР 700.xml", journal, 'Ввод 6с', datetime.timedelta(seconds=2, milliseconds=-10))
+parse_MR(r"W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Технологическая\авария технол. 21.01\вв 6с\МР700_ЖурналСистемы.xml", journal, 'Ввод 6с', datetime.timedelta(seconds=2, milliseconds=-10))
+parse_MR(r"W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Технологическая\авария технол. 21.01\свв 5\МР700_ЖурналСистемы.xml", journal, 'СВВ 5с', datetime.timedelta(seconds=2, milliseconds=-360))
+parse_MR(r"W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Технологическая\авария технол. 21.01\свв 6\МР700_ЖурналСистемы.xml", journal, 'СВВ 6с', datetime.timedelta(seconds=2, milliseconds=180))
+parse_MR(r"W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Технологическая\авария технол. 21.01\тн 5с\МР600_ЖурналСистемы.xml", journal, 'ТН 5с', datetime.timedelta(seconds=3))
+parse_MR(r"W:\RZAI\Информация по отказам и анализ работы СРЗАИ\Технологическая\авария технол. 21.01\тн 6с\МР600_ЖурналСистемы.xml", journal, 'ТН 6с', datetime.timedelta(seconds=4))
 journal.sort(key=lambda dt: dt[1])
 table = '''<!DOCTYPE HTML>
 <html>
